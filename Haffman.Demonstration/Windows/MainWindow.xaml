@@ -1,0 +1,111 @@
+﻿<Window x:Class="Haffman.Demonstration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Haffman.Demonstration"
+        xmlns:ctrl="clr-namespace:Haffman.Demonstration.Controls"
+        Title="Демонстрация" Height="500" Width="1200"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <!-- ссылка на ресурс со стилями -->
+        <ResourceDictionary Source="MainWindow.Resources.xaml"/>
+    </Window.Resources>
+    <Grid Background="#333">
+        <!-- 2 части: с вводом текста, и с выводом --> 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!-- форма для ввода -->
+        <Grid Background="#282828" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <!-- под метку -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="25"/>
+                <!-- под текст бокс для шаблона -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <!-- под метку -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="25"/>
+                <!-- под кэфф -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="120"/>
+                <!-- под метку -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="25"/>
+                <!-- под закодированное сообщение -->
+                <RowDefinition Height="5"/>
+                <RowDefinition/>
+                <!-- под метку -->
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="25"/>
+                <!-- под декодированное сообщение -->
+                <RowDefinition Height="5"/>
+                <RowDefinition/>
+                <RowDefinition Height="5"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="15"/>
+                <!-- для чекбокса -->
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition/>
+                <!-- для текстбоксов и меток -->
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <!-- Grid.Xxx определяют колонку и строчку, в которой находится контрол -->
+            <!-- XxxAlignment определяет, где разместить контрол: возле 1-й из границ, по центру, или растянуть -->
+            <!--
+                чекбокс определяет, являются ли сообщение для словаря (шаблон) и само сообщение одним и тем же
+                если да, то заполняя шаблон, мы заполняем и сообщение, поэтому поле сообщения надо отключить
+                и передать контроль над содержимым текстбокса сообщения программме
+            -->
+            <CheckBox x:Name="areInputsBoundInput"
+                      Grid.Column="1" Grid.Row="7" VerticalAlignment="Center" HorizontalAlignment="Right"
+                      IsChecked="True"/>
+            <Label Content="Шаблон словаря" Grid.Column="3" Grid.Row="1"/>
+            <TextBox x:Name="templateInput" Grid.Column="3" Grid.Row="3"/>
+            <Label Content="Сообщение" Grid.Column="3" Grid.Row="5"/>
+            <!-- IsEnabled - определяет, разрешено ли вводить в контрол -->
+            <TextBox x:Name="messageInput"
+                     Grid.Column="3" Grid.Row="7"
+                     IsEnabled="False"/>
+            <RichTextBox x:Name="coefficientOutput"
+                         Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="9"
+                         IsReadOnly="True"/>
+            <Label Content="Закодированное сообщение" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="11"/>
+            <RichTextBox x:Name="encodedMessageView"
+                         Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="13"
+                         IsReadOnly="True"
+                         FontFamily="Consolas"/>
+            <Label Content="Декодированное сообщение" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="15"/>
+            <RichTextBox x:Name="decodedMessageView"
+                         Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="17"
+                         IsReadOnly="True"/>
+        </Grid>
+        <TabControl Grid.Column="1" BorderThickness="0">
+            <TabItem Header="Кодирование">
+                <ctrl:EncodedMessageView x:Name="encodedMessageOutput" CellSpacing="10,20"/>
+            </TabItem>
+            <TabItem Header="Дерево">
+                <ctrl:BinaryTree x:Name="haffmanTreeOutput">
+                    <ctrl:BinaryTree.ConnectionPen>
+                        <Pen Brush="#666" Thickness="2"/>
+                    </ctrl:BinaryTree.ConnectionPen>
+                </ctrl:BinaryTree>
+            </TabItem>
+            <TabItem Header="Декодирование">
+                <ctrl:DecodedMessageView x:Name="decodedMessageOutput" Background="#222">
+                    <ctrl:DecodedMessageView.SelectionPen>
+                        <Pen Brush="Gray" Thickness="1"/>
+                    </ctrl:DecodedMessageView.SelectionPen>
+                </ctrl:DecodedMessageView>
+            </TabItem>
+            <TabItem Header="Таблица частот">
+                <ctrl:FrequencyTableView x:Name="frequencyTableOutput"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

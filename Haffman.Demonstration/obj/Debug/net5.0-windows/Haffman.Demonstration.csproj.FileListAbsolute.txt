@@ -1,0 +1,105 @@
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.AssemblyReference.cache
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.Resources.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\App.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.cache
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.lref
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.exe
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.deps.json
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.json
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.dev.json
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.dll
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.pdb
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.dll
+D:\Programs\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.pdb
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.g.resources
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfoInputs.cache
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfo.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CoreCompileInputs.cache
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CopyComplete
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.dll
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\refint\hfmdem.dll
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.pdb
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.genruntimeconfig.cache
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\ref\hfmdem.dll
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.g.cs
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.baml
+D:\Programs\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.exe
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.deps.json
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.json
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.dev.json
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\ref\hfmdem.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.pdb
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.pdb
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.AssemblyReference.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\App.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.lref
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.Resources.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.baml
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.g.resources
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfoInputs.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfo.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CoreCompileInputs.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CopyComplete
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\ref\hfmdem.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.pdb
+D:\САОД КУРСОВАЯ\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.genruntimeconfig.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.exe
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.deps.json
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.json
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.runtimeconfig.dev.json
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.dll
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfmdem.pdb
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.dll
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\bin\Debug\net5.0-windows\hfm.pdb
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\BinaryTree.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\DecodedMessageView.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\EncodedMessageView.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Controls\FrequencyTableView.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem_MarkupCompile.lref
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.Resources.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Windows\MainWindow.baml
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.g.resources
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.AssemblyInfo.cs
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.csproj.CopyComplete
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.dll
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\refint\hfmdem.dll
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\hfmdem.pdb
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\Haffman.Demonstration.genruntimeconfig.cache
+C:\Users\User\Desktop\Haffman\Haffman.Demonstration\obj\Debug\net5.0-windows\ref\hfmdem.dll

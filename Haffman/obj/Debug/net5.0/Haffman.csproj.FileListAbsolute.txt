@@ -1,0 +1,36 @@
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.AssemblyReference.cache
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\Haffman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfoInputs.cache
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfo.cs
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.CoreCompileInputs.cache
+D:\Programs\Haffman\Haffman\bin\Debug\net5.0\hfm.deps.json
+D:\Programs\Haffman\Haffman\bin\Debug\net5.0\hfm.dll
+D:\Programs\Haffman\Haffman\bin\Debug\net5.0\hfm.pdb
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\hfm.dll
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\refint\hfm.dll
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\hfm.pdb
+D:\Programs\Haffman\Haffman\obj\Debug\net5.0\ref\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman\bin\Debug\net5.0\hfm.deps.json
+D:\САОД КУРСОВАЯ\Haffman\Haffman\bin\Debug\net5.0\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman\bin\Debug\net5.0\ref\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman\bin\Debug\net5.0\hfm.pdb
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.AssemblyReference.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\Haffman.GeneratedMSBuildEditorConfig.editorconfig
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfoInputs.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfo.cs
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.CoreCompileInputs.cache
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\ref\hfm.dll
+D:\САОД КУРСОВАЯ\Haffman\Haffman\obj\Debug\net5.0\hfm.pdb
+C:\Users\User\Desktop\Haffman\Haffman\bin\Debug\net5.0\hfm.deps.json
+C:\Users\User\Desktop\Haffman\Haffman\bin\Debug\net5.0\hfm.dll
+C:\Users\User\Desktop\Haffman\Haffman\bin\Debug\net5.0\hfm.pdb
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\Haffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\Haffman.AssemblyInfo.cs
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\Haffman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\hfm.dll
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\refint\hfm.dll
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\hfm.pdb
+C:\Users\User\Desktop\Haffman\Haffman\obj\Debug\net5.0\ref\hfm.dll

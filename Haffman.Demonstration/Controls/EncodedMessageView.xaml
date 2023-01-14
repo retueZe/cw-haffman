@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="Haffman.Demonstration.Controls.EncodedMessageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             OverridesDefaultStyle="True"
+             FontFamily="Consolas"/>
+<!--
+    OverrideDefaultStyle="True" - кастомная отрисовка
+    FontFamily="Consolas" - ширина и высота всех символов одинаковая
+-->
